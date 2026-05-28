@@ -1,0 +1,22 @@
+Trip ID,Employee ID,Employee Name,Department,Cost Center,Booking Date,Travel Start Date,Travel End Date,Segment Type,Origin,Destination,Carrier/Vendor,Class of Service,Distance (km),Duration (nights),Amount,Currency,Purpose
+TRP-2024-0142,EMP-1041,Sarah Chen,Engineering,CC-ENG-001,01/08/2024,01/15/2024,01/17/2024,AIR,LHR,SIN,Singapore Airlines,Economy,10841,,1245.00,GBP,Client Site Visit
+TRP-2024-0142,EMP-1041,Sarah Chen,Engineering,CC-ENG-001,01/08/2024,01/15/2024,01/17/2024,HOTEL,SIN,SIN,Marina Bay Sands,,,,2,580.00,SGD,Client Site Visit
+TRP-2024-0143,EMP-2087,Marcus Webb,Sales,CC-SALES-002,01/10/2024,01/18/2024,01/18/2024,AIR,AMS,LHR,British Airways,Business,357,,320.00,EUR,Client Meeting
+TRP-2024-0143,EMP-2087,Marcus Webb,Sales,CC-SALES-002,01/10/2024,01/18/2024,01/18/2024,TAXI,LHR,LHR,,,,18,,45.00,GBP,Client Meeting
+TRP-2024-0144,EMP-3012,Priya Nair,Finance,CC-FIN-001,01/12/2024,01/22/2024,01/26/2024,AIR,BOM,HOU,United Airlines,Economy,13938,,890.00,USD,Annual Finance Summit
+TRP-2024-0144,EMP-3012,Priya Nair,Finance,CC-FIN-001,01/12/2024,01/22/2024,01/26/2024,HOTEL,HOU,HOU,Marriott Downtown Houston,,,,4,620.00,USD,Annual Finance Summit
+TRP-2024-0144,EMP-3012,Priya Nair,Finance,CC-FIN-001,01/12/2024,01/22/2024,01/26/2024,CAR,HOU,HOU,Hertz,,300,,185.00,USD,Annual Finance Summit
+TRP-2024-0145,EMP-1041,Sarah Chen,Engineering,CC-ENG-001,01/20/2024,02/05/2024,02/08/2024,AIR,SIN,HH,Lufthansa,Economy,,,1180.00,EUR,Quarterly Review
+TRP-2024-0146,EMP-4055,James Okafor,Operations,CC-OPS-003,01/22/2024,01/30/2024,02/01/2024,AIR,LHR,IAH,British Airways,Business,8748,,2850.00,GBP,Plant Inspection
+TRP-2024-0146,EMP-4055,James Okafor,Operations,CC-OPS-003,01/22/2024,01/30/2024,02/01/2024,HOTEL,HOU,HOU,Hilton Americas Houston,,,,2,340.00,USD,Plant Inspection
+TRP-2024-0147,EMP-2087,Marcus Webb,Sales,CC-SALES-002,02/01/2024,02/12/2024,02/14/2024,AIR,AMS,JFK,Delta Air Lines,Business,5857,,1640.00,EUR,New York Client
+TRP-2024-0147,EMP-2087,Marcus Webb,Sales,CC-SALES-002,02/01/2024,02/12/2024,02/14/2024,HOTEL,JFK,NYC,The Standard High Line,,,,2,780.00,USD,New York Client
+TRP-2024-0148,EMP-5091,Li Wei,Technology,CC-TECH-004,02/05/2024,02/19/2024,02/21/2024,AIR,SIN,NRT,ANA,Economy,5319,,680.00,SGD,Tech Conference Tokyo
+TRP-2024-0148,EMP-5091,Li Wei,Technology,CC-TECH-004,02/05/2024,02/19/2024,02/21/2024,HOTEL,NRT,TYO,Park Hyatt Tokyo,,,,2,1240.00,SGD,Tech Conference Tokyo
+TRP-2024-0149,EMP-3012,Priya Nair,Finance,CC-FIN-001,02/08/2024,02/26/2024,02/27/2024,RAIL,LHR,CDG,Eurostar,Standard Premier,494,,185.00,GBP,Paris Audit
+TRP-2024-0149,EMP-3012,Priya Nair,Finance,CC-FIN-001,02/08/2024,02/26/2024,02/27/2024,HOTEL,CDG,PAR,Novotel Paris Centre,,,,1,210.00,EUR,Paris Audit
+TRP-2024-0150,EMP-4055,James Okafor,Operations,CC-OPS-003,02/14/2024,03/04/2024,03/07/2024,AIR,LHR,SIN,British Airways,Economy,10841,,920.00,GBP,Singapore Plant Review
+TRP-2024-0150,EMP-4055,James Okafor,Operations,CC-OPS-003,02/14/2024,03/04/2024,03/07/2024,HOTEL,SIN,SIN,Marriott Tang Plaza,,,,3,1080.00,SGD,Singapore Plant Review
+TRP-2024-0151,EMP-6023,Anna Kowalski,HR,CC-HR-005,02/20/2024,03/11/2024,03/12/2024,AIR,WAW,LHR,LOT Polish Airlines,Economy,1454,,310.00,PLN,London HR Conference
+TRP-2024-0152,EMP-1041,Sarah Chen,Engineering,CC-ENG-001,02/22/2024,03/15/2024,03/19/2024,AIR,LHR,HOU,Virgin Atlantic,Economy,8741,,1050.00,GBP,Houston Refinery Audit
+TRP-2024-0152,EMP-1041,Sarah Chen,Engineering,CC-ENG-001,02/22/2024,03/15/2024,03/19/2024,HOTEL,HOU,HOU,Hyatt Regency Houston,,,,4,560.00,USD,Houston Refinery Audit

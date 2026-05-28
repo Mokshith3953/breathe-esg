@@ -1,0 +1,18 @@
+Account Number,Service Address,Meter Number,Billing Period Start,Billing Period End,Usage (kWh),Peak Demand (kW),Total Charges ($),Rate Schedule,Meter Read Type,Power Factor (%)
+ACT-10042871,1200 Industrial Blvd - Hamburg Plant,MTR-HH-001,12/19/2023,01/21/2024,142350,485.2,18945.30,HV-Industrial-G3,Actual Read,94.2
+ACT-10042871,1200 Industrial Blvd - Hamburg Plant,MTR-HH-001,01/22/2024,02/19/2024,138720,471.8,18430.56,HV-Industrial-G3,Actual Read,93.8
+ACT-10042871,1200 Industrial Blvd - Hamburg Plant,MTR-HH-001,02/20/2024,03/20/2024,125410,408.3,16679.53,HV-Industrial-G3,Actual Read,95.1
+ACT-10042871,1200 Industrial Blvd - Hamburg Plant,MTR-HH-001,03/21/2024,04/18/2024,131200,422.6,17449.60,HV-Industrial-G3,Actual Read,94.5
+ACT-20087543,Rotterdam Terminal Building A,MTR-RT-001,12/23/2023,01/24/2024,89200,312.4,11594.80,MV-Commercial-C2,Actual Read,91.3
+ACT-20087543,Rotterdam Terminal Building A,MTR-RT-001,01/25/2024,02/22/2024,82400,289.1,10712.00,MV-Commercial-C2,Actual Read,90.8
+ACT-20087543,Rotterdam Terminal Building A,MTR-RT-001,02/23/2024,03/25/2024,77600,265.8,10088.00,MV-Commercial-C2,Actual Read,92.1
+ACT-20087543,Rotterdam Terminal Building A,MTR-RT-001,03/26/2024,04/23/2024,80100,278.4,10413.00,MV-Commercial-C2,Actual Read,91.7
+ACT-30156980,Houston Refinery - Main Substation,MTR-HOU-001,12/28/2023,01/30/2024,284500,1021.4,36302.50,LGS-Large-Industrial,Actual Read,96.8
+ACT-30156980,Houston Refinery - Main Substation,MTR-HOU-001,01/31/2024,02/28/2024,271300,986.2,34608.30,LGS-Large-Industrial,Actual Read,97.1
+ACT-30156980,Houston Refinery - Main Substation,MTR-HOU-001,02/29/2024,03/29/2024,268900,972.1,34307.70,LGS-Large-Industrial,Actual Read,96.5
+ACT-40231107,Singapore Operations - Block 7,MTR-SG-001,12/15/2023,01/14/2024,64200,218.6,10594.20,C3-Commercial-HT,Actual Read,88.4
+ACT-40231107,Singapore Operations - Block 7,MTR-SG-001,01/15/2024,02/14/2024,67800,231.2,11187.00,C3-Commercial-HT,Actual Read,89.1
+ACT-40231107,Singapore Operations - Block 7,MTR-SG-001,02/15/2024,03/15/2024,61400,204.8,10131.00,C3-Commercial-HT,Estimated Read,87.9
+ACT-50089234,London Office - 40 Cannon Street,MTR-LON-001,12/21/2023,01/22/2024,28400,94.2,5822.00,UT-Firm-Supply-1,Actual Read,85.6
+ACT-50089234,London Office - 40 Cannon Street,MTR-LON-001,01/23/2024,02/20/2024,26100,87.8,5350.50,UT-Firm-Supply-1,Actual Read,86.2
+ACT-50089234,London Office - 40 Cannon Street,MTR-LON-001,02/21/2024,03/21/2024,24800,82.5,5084.00,UT-Firm-Supply-1,Actual Read,85.9
