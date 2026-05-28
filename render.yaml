@@ -2,9 +2,9 @@ services:
   - type: web
     name: breathe-esg
     runtime: python
-    rootDir: backend
-    buildCommand: bash build.sh
-    startCommand: gunicorn esg.wsgi --bind 0.0.0.0:$PORT --workers 2 --timeout 60
+    pythonVersion: "3.11.7"
+    buildCommand: cd backend && bash build.sh
+    startCommand: cd backend && gunicorn esg.wsgi --bind 0.0.0.0:$PORT --workers 2 --timeout 60
     envVars:
       - key: DEBUG
         value: "False"
