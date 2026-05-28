@@ -105,6 +105,7 @@ CORS_ALLOWED_ORIGINS_STR = os.environ.get(
     "http://localhost:5173,http://localhost:3000",
 )
 CORS_ALLOWED_ORIGINS = [o.strip() for o in CORS_ALLOWED_ORIGINS_STR.split(",") if o.strip()]
+CORS_ALLOWED_ORIGIN_REGEXES = [r"^https://.*\.onrender\.com$"] if not DEBUG else []
 CORS_ALLOW_CREDENTIALS = True
 
 # Serve React SPA from Django in production
